@@ -14,7 +14,6 @@ usuarios.forEach((item) => {
   console.log(`${item.nome} ${item.idade}`);
 });
 
-
 /* Ex- 2 - Utilize a lista de notas abaixo, para somar todas as notas e exibindo todos os final da soma.
 
 const notas = [20, 20, 10, 12, 13, '10', '11', '33', '22', '3', 0, 2, 4, 0, 88, 191]
